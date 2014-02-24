@@ -1,4 +1,4 @@
-(defproject algos "0.1.0-SNAPSHOT"
+(defproject clojure-algorithms "0.1.0-SNAPSHOT"
   :description "Algorithms in Clojure"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
