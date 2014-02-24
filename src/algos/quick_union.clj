@@ -1,5 +1,5 @@
 (ns algos.quick-union
-    (:use [algos.core :only [ids]]))
+    (:require [algos.quick-find :refer [ids]]))
 
 (defn root 
     "returns the root of a vector"

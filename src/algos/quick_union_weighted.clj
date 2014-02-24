@@ -1,3 +1,3 @@
 (ns algos.quick-union-weighted
-    (:use [algos.core :only [ids]]
-          [algos.quick-union :only [root]]))
+    (:require [algos.quick-find :refer [ids]]
+          [algos.quick-union :refer [root]]))
